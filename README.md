@@ -1,1 +1,2 @@
-# laboratorio6_1
+# ecs-example
+aws elastic container service example
